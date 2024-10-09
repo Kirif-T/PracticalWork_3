@@ -1,0 +1,7 @@
+C:\VisualStudioProjects\PracticalWork_3\Tasks\Task3\bin\Debug\Task3.exe.config
+C:\VisualStudioProjects\PracticalWork_3\Tasks\Task3\bin\Debug\Task3.exe
+C:\VisualStudioProjects\PracticalWork_3\Tasks\Task3\bin\Debug\Task3.pdb
+C:\VisualStudioProjects\PracticalWork_3\Tasks\Task3\obj\Debug\Task3.csproj.AssemblyReference.cache
+C:\VisualStudioProjects\PracticalWork_3\Tasks\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\VisualStudioProjects\PracticalWork_3\Tasks\Task3\obj\Debug\Task3.exe
+C:\VisualStudioProjects\PracticalWork_3\Tasks\Task3\obj\Debug\Task3.pdb
